@@ -20,7 +20,7 @@ This web application is a revised and polished version of my digital portfolio.
 
 ## Images
 
-![Burger](./assets/img/burger.jpg) 
+![Burger](assets/img/burger.jpg) 
 ![Code](/images/shot2.png) 
 ![Laptop](/images/shot3.png) 
 ![Mobile](/images/shot4.png)
