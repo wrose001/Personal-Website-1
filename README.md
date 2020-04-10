@@ -20,14 +20,14 @@ This web application is a revised and polished version of my digital portfolio.
 
 ## Images
 
-![Burger](/assets/img/burger.jpg) 
-![Code](/images/shot2.png) 
-![Laptop](/images/shot3.png) 
-![Mobile](/images/shot4.png)
-![Notes](/images/shot4.png) 
-![Pets](/images/shot4.png) 
-![Masthead](/images/shot4.png)
-![My Photo](/images/shot4.png)   
+![Burger](assets/img/portfolio/burger.jpg) 
+![Code](assets/img/portfolio/code.jpg) 
+![Laptop](assets/img/portfolio/laptop.jpg) 
+![Mobile](assets/img/portfolio/mobile.jpg)
+![Notes](assets/img/portfolio/notes.jpg) 
+![Pets](assets/img/portfolio/pets.jpb) 
+![Masthead](assets/img/bg-masthead.jpg)
+![My Photo](assets/img/rose.jpg)   
 
 ## Built With
 
