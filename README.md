@@ -27,7 +27,7 @@ This web application is a revised and polished version of my digital portfolio.
 ![Notes](assets/img/portfolio/notes.jpg) 
 ![Pets](assets/img/portfolio/pets.jpb) 
 ![Masthead](assets/img/bg-masthead.jpg)
-![My Photo](assets/img/rose.jpg)   
+![My Photo](assets/img/rose.png)   
 
 ## Built With
 
