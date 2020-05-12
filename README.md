@@ -12,8 +12,6 @@ This web application is a revised and polished version of my digital portfolio.
 
 
 
-
-
 ## Deployment
 
 [https://wrose001.github.io/Personal-Website-1/](https://wrose001.github.io/Personal-Website-1/)
